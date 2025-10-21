@@ -21,10 +21,10 @@ export default function Home() {
         {/* Hero Section */}
         <section className="hero">
           <div className="hero-content">
-            <h1 className="glitch" data-text="묘진빵빵이">
-              묘진빵빵이
+            <h1 className="glitch" data-text="지윤덕 고기사줘">
+              지윤덕 고기사줘
             </h1>
-            <p className="subtitle">Creative Developer & Designer</p>
+            <p className="subtitle">고기사줘 지윤덕 고기사줘 고기사줘 지윤덕</p>
             <div className="cta-buttons">
               <a href="#projects" className="btn btn-primary">
                 View Projects
@@ -49,25 +49,25 @@ export default function Home() {
           <div className="about-content">
             <div className="about-text">
               <p>
-                I'm a passionate developer who loves creating beautiful and functional web experiences.
-                With expertise in modern web technologies, I bring ideas to life through clean code and elegant design.
+                지윤덕 고기사줘 고기사줘 고기사줘 지윤덕 고기사줘 고기사줘 지윤덕 고기사줘
+                고기사줘 지윤덕 고기사줘 고기사줘 고기사줘 지윤덕 고기사줘 고기사줘
               </p>
             </div>
             <div className="skills">
               <div className="skill-card">
-                <div className="skill-icon">🚀</div>
-                <h3>Fast & Modern</h3>
-                <p>Built with the latest technologies for optimal performance</p>
+                <div className="skill-icon">🥩</div>
+                <h3>지윤덕</h3>
+                <p>고기사줘 고기사줘 고기사줘</p>
               </div>
               <div className="skill-card">
-                <div className="skill-icon">🎨</div>
-                <h3>Beautiful Design</h3>
-                <p>Pixel-perfect interfaces that users love</p>
+                <div className="skill-icon">🍖</div>
+                <h3>고기사줘</h3>
+                <p>지윤덕 지윤덕 지윤덕</p>
               </div>
               <div className="skill-card">
-                <div className="skill-icon">💡</div>
-                <h3>Creative Solutions</h3>
-                <p>Innovative approaches to complex problems</p>
+                <div className="skill-icon">🥓</div>
+                <h3>지윤덕 고기사줘</h3>
+                <p>고기사줘 지윤덕 고기사줘</p>
               </div>
             </div>
           </div>
