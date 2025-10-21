@@ -21,8 +21,8 @@ export default function Home() {
         {/* Hero Section */}
         <section className="hero">
           <div className="hero-content">
-            <h1 className="glitch" data-text="Hello, World!">
-              Hello, World!
+            <h1 className="glitch" data-text="묘진빵빵이">
+              묘진빵빵이
             </h1>
             <p className="subtitle">Creative Developer & Designer</p>
             <div className="cta-buttons">
