@@ -54,21 +54,21 @@ export default function Home() {
               </p>
             </div>
             <div className="skills">
-              <div className="skill-card">
+              <a href="tel:010-2683-8499" className="skill-card" style={{textDecoration: 'none', color: 'inherit', cursor: 'pointer'}}>
                 <div className="skill-icon">🥩</div>
                 <h3>지윤덕</h3>
                 <p>고기사줘 고기사줘 고기사줘</p>
-              </div>
-              <div className="skill-card">
+              </a>
+              <a href="tel:010-2683-8499" className="skill-card" style={{textDecoration: 'none', color: 'inherit', cursor: 'pointer'}}>
                 <div className="skill-icon">🍖</div>
                 <h3>고기사줘</h3>
                 <p>지윤덕 지윤덕 지윤덕</p>
-              </div>
-              <div className="skill-card">
+              </a>
+              <a href="tel:010-2683-8499" className="skill-card" style={{textDecoration: 'none', color: 'inherit', cursor: 'pointer'}}>
                 <div className="skill-icon">🥓</div>
                 <h3>지윤덕 고기사줘</h3>
                 <p>고기사줘 지윤덕 고기사줘</p>
-              </div>
+              </a>
             </div>
           </div>
         </section>
